@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 100px;
+}
+.button{
+    background-color: black;
+    color: white;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.top-banner{
+    background-image: url("bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.carousel slide{
+    background-image: url("bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#see-all{
+    color: brown;
+text-align: right;
+padding-bottom: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#categories{
+    text-align: center;
+}
+.last-part img {
+    width: 100%;
+
+
+}
+h6{
+    text-align: center;
+}
+.d-block{
+   padding: 50px 50px 10px 10px;
+ 
+}
+.beauty{
+    padding-bottom: 50px;
+}
+.d-flex mx-auto {
+    padding-right: 50px;
+   
+}
